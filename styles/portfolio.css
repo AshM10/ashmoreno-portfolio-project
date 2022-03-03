@@ -112,6 +112,12 @@ p {
   border-radius: 15px;
 }
 
+.app-photo {
+  border-radius: 20px;
+  width: 560px;
+  height: 560px;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
