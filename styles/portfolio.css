@@ -126,6 +126,11 @@ p {
   max-height: 40px;
 }
 
+.shecodes {
+  text-decoration: none;
+  color: var(--branding-color);
+}
+
 nav {
   padding: 20px 0;
 }
