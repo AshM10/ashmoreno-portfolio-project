@@ -59,6 +59,10 @@ p {
   line-height: 1.5;
 }
 
+.introduction {
+  width: 500px;
+}
+
 .content-container {
   padding: 60px 20px;
 }
