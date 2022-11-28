@@ -107,7 +107,7 @@ p {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 50px 60px;
 }
 
 .ashm-photo {
@@ -208,6 +208,19 @@ footer .social-links a:hover {
     font-size: 44px;
   }
 
+  h3 {
+    font-size: 30px;
+  }
+
+  .content-container {
+    text-align: center;
+  }
+
+  .content h1 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+
   .content {
     text-align: center;
     padding: 0;
@@ -216,5 +229,12 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+
+  .app-photo,
+  .ashm-photo {
+    border-radius: 20px;
+    width: 20rem;
+    height: 20rem;
   }
 }
