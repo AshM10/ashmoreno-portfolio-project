@@ -59,6 +59,13 @@ p {
   line-height: 1.5;
 }
 
+.aws-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-size-adjust: 20px;
+}
+
 .content-container {
   padding: 60px 20px;
 }
